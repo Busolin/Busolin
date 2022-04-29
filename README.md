@@ -8,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busolin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<hr/>
-
 <h2>Minha Stack Atual</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Busolin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
