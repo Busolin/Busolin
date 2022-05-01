@@ -1,6 +1,6 @@
 <p>Em construção...</p>
 
-## Olá! Meu nome é Victor Busolin <br/>Estudante de Engenharia de Computação pela UTFPR
+## 👋🏻 Olá! Meu nome é Victor, estudante de Engenharia de Computação pela UTFPR
 
 <div align="center">
   <a href="https://github.com/Busolin">
@@ -17,14 +17,12 @@
   <img align="center" alt="Busolin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Busolin-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-
-##
   
+## Redes Sociais 
 <div align="center"> 
-  <p>Redes Sociais</p> 
   <a href="https://instagram.com/busolinkz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/busolinkz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:victorbusolin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:victorbusolin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-santos-busolin-b62154203/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
